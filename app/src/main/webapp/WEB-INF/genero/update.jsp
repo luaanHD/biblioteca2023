@@ -7,6 +7,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
+        <!-- Serve para mudar o que já foi criado -->
         <div class="container">
             <h1>Editar Gênero</h1>
             <form action="/genero/update" method="post">

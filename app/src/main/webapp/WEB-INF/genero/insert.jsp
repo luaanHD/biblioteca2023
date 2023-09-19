@@ -7,6 +7,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
+        <!-- Insere as informações no banco de dados -->
         <div class="container">
             <h1>Novo Gênero</h1>
             <form action="/genero/insert" method="post">

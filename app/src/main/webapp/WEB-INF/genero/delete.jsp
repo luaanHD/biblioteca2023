@@ -7,6 +7,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
+        <!-- Deleta os gêneros criados -->
         <div class="container">
             <h1>Remover Gênero</h1>
             <p>Tem certeza que deseja remover o gênero "${genero.nome}" ?</p>

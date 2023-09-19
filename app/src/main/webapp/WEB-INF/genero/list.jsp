@@ -8,6 +8,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
+        <!-- Serve para mostrar o id e o nome do gênero -->
         <div class="container">
         <h1>Gêneros</h1>
             <a href="/genero/insert" class="btn btn-primary">Novo Gênero</a>
